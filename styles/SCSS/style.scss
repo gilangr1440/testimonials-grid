@@ -137,6 +137,7 @@ body {
     grid-template-rows: auto;
     grid-template-areas: "grid1 grid2" "grid3 grid4" "grid5 grid5";
     gap: 30px;
+    margin: 150px auto;
 
     @at-root .container__grid1 {
       grid-area: grid1;
